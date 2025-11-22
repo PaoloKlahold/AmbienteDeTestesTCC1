@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv_cli/
+
+# Logs
+*.log
+
+# Dados gerados
+*.xlsx
+results.json
+
+# Sistema
+.DS_Store
+Thumbs.db
